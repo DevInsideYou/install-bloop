@@ -5,5 +5,5 @@
 
 ```bash
 wget -q https://script.install.devinsideyou.com/bloop-cli
-sudo chmod +x bloop-cli && ./bloop-cli
+chmod +x bloop-cli && ./bloop-cli
 ```
